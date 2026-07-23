@@ -1,0 +1,1 @@
+*,*::before,*::after{box-sizing:border-box}html,body,#root{margin:0;width:100%;min-height:100%;overflow-x:hidden}body{font-family:Sora,system-ui,-apple-system,Segoe UI,sans-serif;background:#f7f7f5;color:#1c1c22}button,input,select,textarea{font:inherit}button{-webkit-tap-highlight-color:transparent}#root{min-height:100svh}
